@@ -27,6 +27,7 @@ print(abs(numero))
 #Devuelve la potencia de un numero
 print(pow(numero, 2))
 
+
 #Devuelve el numero mayor
 print(max(numero, numero2, numero3)) #min devuelve el menor
 
